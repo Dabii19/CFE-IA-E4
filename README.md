@@ -46,3 +46,4 @@ Entrenar un modelo de clasificación que estime la **calidad del vino** en funci
 - con el sulfato y el ácido fijos mientras varia el alcohol muestra estos resultados:
   - Con 6.0 de alcohol hacia abajo la calidad baja
   - Al llegar a 6 hacia arriba se mantiene la calidad en 6
+- No se encontró combincación de valores que exedan la calidad de 6. 
